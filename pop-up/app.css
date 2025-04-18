@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body{ 
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.text-conrol{
+    display: inline-block;
+}
+
+.buttons-control{
+    display: inline-block;
+}

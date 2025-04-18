@@ -1,0 +1,10 @@
+{
+    "name": "Banner hidder",
+    "description": "Hides any divs and all it's child evements. DOESNT REMOVE THEM, JUST HIDES!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "pop-up/app.html",
+      "default_icon": "images/Img 128x128.png"
+    }
+  }

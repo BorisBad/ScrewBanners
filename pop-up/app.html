@@ -1,0 +1,16 @@
+<html>
+  <body>
+    <script src="app.js"></script>
+    <div class="text-conrol">
+        <div id="last-text"></div>
+        <textarea id="main-text" onchange="activate_button()"></textarea>
+        <div id="next-text"></div>
+    </div>    
+    <div class="buttons-control">           
+        <button id="button-prev"></button>
+        <button id="button-ok" onclick="set_style_for_block('visibility:hidden;')"></button>
+        <button id="button-next"></button>
+    </div>
+    <div class="setting" style="visibility: hidden;"></div>
+  </body>
+</html>
